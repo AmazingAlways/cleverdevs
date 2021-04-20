@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cleverdevs
 - 👀 I’m interested in ...PHP JS SQL
 - 🌱 I’m currently learning ...SQL PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Java
 - 📫 How to reach me ...
 - 😸 Code editor.... visual studio code
 <!---
