@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Udeze Preston.
 
-<div ><img src="https://github.com/cleverdevs/cleverdevs/blob/main/download.jpg?raw=true" width="200px" height="200px"></div>
+<div ><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fxeres.netlify.app%2F&psig=AOvVaw0OsGmQxsCfTWWKk5oBQMXh&ust=1621094693558000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiI0r7GyfACFQAAAAAdAAAAABAD" width="200px" height="200px"></div>
 
 <h3 align="left"><strong>
 I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
