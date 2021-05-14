@@ -1,16 +1,59 @@
-- 👋 Hi, I’m @cleverdevs
-- 👀 I’m interested in ...PHP JS SQL
-- 🌱 I’m currently learning ...SQL PYTHON
-- 💞️ I’m looking to collaborate on ...Java
-- 📫 How to reach me ...
-- 😸 Code editor.... visual studio code
-<!---
-cleverdevs/cleverdevs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- 🙈... i eat php and js
-
-![download](https://user-images.githubusercontent.com/77573543/118293756-d8c3d300-b48e-11eb-81d6-ad82d1d79c3a.jpg)
+### 👋 Hi there, I'm Udeze Preston.
 
 
+<div ><img src="![download](https://user-images.githubusercontent.com/77573543/118294935-1e34d000-b490-11eb-9ccd-db1775fda4a4.jpg)" width="200px" height="200px"></div>
+
+<h3 align="left"><strong>
+I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
+
+
+
+<a target="_blank" href="https://twitter.com/SocialTymn">
+<img src="https://pitlochryfestivaltheatre.com/wp-content/uploads/2020/04/2-27646_twitter-logo-png-transparent-background-logo-twitter-png-1024x1024.png" width="30px" height="30px" alt="Twitter Badge">
+</a>
+<a target="_blank" href="https://www.instagram.com/tymnsocialnetwork/">
+<img src="https://i.pinimg.com/originals/a2/5f/4f/a25f4f58938bbe61357ebca42d23866f.png" width="30px" height="30px" alt="Instagram Badge">
+</a>
+<br>
+
+<br>
+
+###  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" height="20"> **about.js**
+
+```javascript
+const profile = {
+  education: "Secondary",
+  otherAlias: "Full Stack Developer",
+  codesIn: ["Javascript", "HTML", "CSS", "Js", "PHP",
+  currentlylearning: ["Node js"],
+  toolsUsing: ["Mysql", "Javascript", "Bootstrap", "Xampp",],
+  availableForHire: true
+}
+```
+
+![aavesh's github stats](https://github-readme-stats.vercel.app/api?username=cleverdevs&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=[%22issues%22,%22prs%22])
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cleverdevs&langs_count=5)]()
+
+
+<img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="#"><strong> create an issue</strong></a>, I'll be happy to hire me Thanks ;)</b> </em>
+
+![](https://visitor-badge.glitch.me/badge?page_id=aaveshdev)
+
+
+
+<!--
+**cleverdevs/cleverdevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
