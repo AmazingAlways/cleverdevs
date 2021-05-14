@@ -1,7 +1,8 @@
 ### 👋 Hi there, I'm Udeze Preston.
 
 
-<div ><img src="![download](https://user-images.githubusercontent.com/77573543/118294935-1e34d000-b490-11eb-9ccd-db1775fda4a4.jpg)" width="200px" height="200px"></div>
+![download](https://user-images.githubusercontent.com/77573543/118297346-de231c80-b492-11eb-8ba5-3d502a21fa49.jpg)
+
 
 <h3 align="left"><strong>
 I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
