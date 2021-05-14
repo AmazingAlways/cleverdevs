@@ -1,8 +1,6 @@
 ### 👋 Hi there, I'm Udeze Preston.
 
-
-![download](https://user-images.githubusercontent.com/77573543/118297346-de231c80-b492-11eb-8ba5-3d502a21fa49.jpg)
-
+<div ><img src="https://github.com/cleverdevs/cleverdevs/blob/main/download.jpg?raw=true" width="200px" height="200px"></div>
 
 <h3 align="left"><strong>
 I seek to contribute to this world with my algorithms and abstractions.</strong></h3>
