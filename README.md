@@ -31,14 +31,14 @@ const profile = {
 }
 ```
 
-![aavesh's github stats](https://github-readme-stats.vercel.app/api?username=cleverdevs&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=[%22issues%22,%22prs%22])
+![Cleverdevs github stats](https://github-readme-stats.vercel.app/api?username=cleverdevs&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=[%22issues%22,%22prs%22])
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cleverdevs&langs_count=5)]()
 
 
 <img src="https://media.giphy.com/media/RhwkGhrlj3NVSOxWSN/giphy.gif" height="30"> <em><b>I'm mostly active around the internet</b> so if you want to say hi or just dropby, feel free to <a target="_blank" href="#"><strong> create an issue</strong></a>, I'll be happy to hire me Thanks ;)</b> </em>
 
-![](https://visitor-badge.glitch.me/badge?page_id=aaveshdev)
+![](https://visitor-badge.glitch.me/badge?page_id=cleverdevs)
 
 
 
