@@ -32,6 +32,8 @@ const profile = {
 
 ![Cleverdevs github stats](https://github-readme-stats.vercel.app/api?username=cleverdevs&bg_color=fafafa&hide_border=true&line_height=25&title_color=0c0c0d&text_color=141414&hide=[%22issues%22,%22prs%22])
 
+![Cleverdevs github stats](https://docs.netlify.com/images/monitor-sites-status-badges@2x.png)
+
 ![Cleverdevs github stats](https://api.netlify.com/api/v1/badges/66fbebc5-cee7-43e1-ac4d-4c895ef2cfb6/deploy-status)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cleverdevs&langs_count=5)]()
