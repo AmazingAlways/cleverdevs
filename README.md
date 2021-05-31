@@ -10,7 +10,8 @@
 
 
 
-<img align="right" height="250" width="375" alt="" src="https://tenor.com/view/coding-hello-world-cprogramming-programming-gif-21075258" />
+
+<div align="right" height="250" width="375" class="tenor-gif-embed" data-postid="21075258" data-share-method="host" data-width="100%" data-aspect-ratio="1.0"><a href="https://tenor.com/view/coding-hello-world-cprogramming-programming-gif-21075258">Coding Hello World GIF</a> from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Talking about Personal Stuffs:
 
